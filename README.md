@@ -18,8 +18,9 @@ We will be starting a contest here soon where people can submit a pull request t
 any language other than English. If you don't know how to participate, you can [go to our repo's issues to
 ask for help](https://github.com/InstaMarch/world-language-starter-kit/issues).
 
-### An example cheatsheet in English
+### An example cheatsheet in English expressed in Markdown .
 
+```
 * How do you say “word” in English?
 
 * What does “this expression” mean?
@@ -31,6 +32,7 @@ ask for help](https://github.com/InstaMarch/world-language-starter-kit/issues).
 * How do I say "this is" in the future tense?
 
 * How do I say "this is" in the past tense?
+```
 
 ### Submission Instructions
 
